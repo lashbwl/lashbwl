@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Bruno Wai Lu
+
+## Formação
+
+FATEC
+
+# Estudando
+
+Java
